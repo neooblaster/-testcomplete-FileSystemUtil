@@ -1,0 +1,20 @@
+{
+    "name": "@testcomplete/filesystemutil",
+    "version": "0.6.0",
+    "description": "A file system interface to let scripts working with TestComplete & NodeJS at the same time",
+    "main": "FileSystemUtil.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "TestComplete",
+        "NodeJS",
+        "Automatition",
+        "Interface",
+        "File",
+        "Compatibility",
+        "Util"
+    ],
+    "author": "Nicolas DUPRE",
+    "license": "ISC"
+}
