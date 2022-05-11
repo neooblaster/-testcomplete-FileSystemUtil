@@ -2,7 +2,7 @@
 
 > A very basic file system interface to let scripts working with TestComplete & NodeJS at the same time.
 
-* **Version** : ``v0.1.0``
+* **Version** : ``v0.1.1``
 * **Dependencies** :
     * none
   
@@ -11,6 +11,7 @@
 
 [](BeginSummary)
 * [Summary](#summary)
+* [FileSystemUtil Setup for TestComplete](#filesystemutil%20setup%20for%20testcomplete)
 * [Get Started](#get%20started)
 * [Read a file `read()`](#read%20a%20file%20%60read()%60)
 * [Write a file `write()`](#write%20a%20file%20%60write()%60)
@@ -18,6 +19,25 @@
 * [Check if a file exists `exists()`](#check%20if%20a%20file%20exists%20%60exists()%60)
 [](EndSummary)
 
+
+
+## FileSystemUtil Setup for TestComplete
+
+As this library is published on **npmjs**,
+you can easily get library with the following command
+if you have **nodejs** installed on your computer.
+
+````bash
+npm install @testcomplete/filesystemutil
+````
+
+Please confer to this documentation to add script in TestComplete :
+
+Script List for the setup :
+
+* ``./node_modules/@testcomplete/filesystemutil/FileSystemUtil.js``
+
+[@testcomplete/testcompletelibrarysetup](https://www.npmjs.com/package/@testcomplete/testcompletelibrarysetup)
 
 
 ## Get Started
