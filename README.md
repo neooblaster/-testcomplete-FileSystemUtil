@@ -37,7 +37,8 @@ Script List for the setup :
 
 * ``./node_modules/@testcomplete/filesystemutil/FileSystemUtil.js``
 
-[@testcomplete/testcompletelibrarysetup](https://www.npmjs.com/package/@testcomplete/testcompletelibrarysetup)
+[TestComplete Library Setup](https://gitlab.viseo.com/testcomplete/documentations/testcompletelibrarysetup)
+
 
 
 ## Get Started
