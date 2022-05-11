@@ -1,6 +1,6 @@
 {
     "name": "@testcomplete/filesystemutil",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "A file system interface to let scripts working with TestComplete & NodeJS at the same time",
     "main": "FileSystemUtil.js",
     "scripts": {
