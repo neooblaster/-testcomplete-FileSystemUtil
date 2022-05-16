@@ -16,5 +16,13 @@
         "Util"
     ],
     "author": "Nicolas DUPRE",
-    "license": "ISC"
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/neooblaster/-testcomplete-FileSystemUtil.git"
+    },
+    "bugs": {
+        "url": "https://github.com/neooblaster/-testcomplete-FileSystemUtil/issues"
+    },
+    "homepage": "https://github.com/neooblaster/-testcomplete-FileSystemUtil#readme"
 }
