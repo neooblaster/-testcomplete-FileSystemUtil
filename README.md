@@ -2,7 +2,9 @@
 
 > A very basic file system interface to let scripts working with TestComplete & NodeJS at the same time.
 
-* **Version** : ``v0.1.1``
+* **Version** : ``v0.1.2``
+* **Compatibility** : **TestComplete** - **NodeJS**
+* **Script** : ``./node_modules/@testcomplete/filesystemutil/FileSystemUtil.js``
 * **Dependencies** :
     * none
   
@@ -11,12 +13,12 @@
 
 [](BeginSummary)
 * [Summary](#summary)
-* [FileSystemUtil Setup for TestComplete](#filesystemutil%20setup%20for%20testcomplete)
-* [Get Started](#get%20started)
-* [Read a file `read()`](#read%20a%20file%20%60read()%60)
-* [Write a file `write()`](#write%20a%20file%20%60write()%60)
-* [Deleting a file `delete`](#deleting%20a%20file%20%60delete%60)
-* [Check if a file exists `exists()`](#check%20if%20a%20file%20exists%20%60exists()%60)
+* [FileSystemUtil Setup for TestComplete](#filesystemutil-setup-for-testcomplete)
+* [Get Started](#get-started)
+* [Read a file `read()`](#read-a-file-read)
+* [Write a file `write()`](#write-a-file-write)
+* [Deleting a file `delete`](#-deletinga-file-delete)
+* [Check if a file exists `exists()`](#check-if-a-file-exists-exists)
 [](EndSummary)
 
 
@@ -37,7 +39,7 @@ Script List for the setup :
 
 * ``./node_modules/@testcomplete/filesystemutil/FileSystemUtil.js``
 
-[TestComplete Library Setup](https://gitlab.viseo.com/testcomplete/documentations/testcompletelibrarysetup)
+[@testcomplete/testcompletelibrarysetup](https://www.npmjs.com/package/@testcomplete/testcompletelibrarysetup)
 
 
 
