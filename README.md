@@ -2,11 +2,12 @@
 
 > A very basic file system interface to let scripts working with TestComplete & NodeJS at the same time.
 
-* **Version** : ``v0.1.2``
+* **Version** : ``v0.1.3``
 * **Compatibility** : **TestComplete** - **NodeJS**
 * **Script** : ``./node_modules/@testcomplete/filesystemutil/FileSystemUtil.js``
 * **Dependencies** :
     * none
+* **Test Project** : ``./test/FileSystemUtil.pjs``
   
   
 ## Summary
@@ -39,7 +40,7 @@ Script List for the setup :
 
 * ``./node_modules/@testcomplete/filesystemutil/FileSystemUtil.js``
 
-[TestComplete Library Setup](https://gitlab.viseo.com/testcomplete/documentations/testcompletelibrarysetup)
+[@testcomplete/testcompletelibrarysetup](https://www.npmjs.com/package/@testcomplete/testcompletelibrarysetup)
 
 
 

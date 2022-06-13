@@ -1,5 +1,5 @@
 /**
- * Version v0.1.2
+ * Version v0.1.3
  *
  * @author: Nicolas DUPRE (VISEO)
  *
@@ -16,6 +16,9 @@ function FileSystemUtil() {
                     return aqFile.ReadWholeTextFile($sFileLocation, aqFile.ctUTF8)
                 },
                 write: function ($sFileLocation, $sContent = '') {
+                    // content for aqFile can not be null.
+                    if($sContent === null) $sContent = '';
+
                     return aqFile.WriteToTextFile($sFileLocation, $sContent, aqFile.ctUTF8, true);
                 },
                 delete: function ($sFileLocation) {

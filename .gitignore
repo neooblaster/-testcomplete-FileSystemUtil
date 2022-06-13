@@ -1,2 +1,4 @@
 .idea/*
 *viseo*
+*npmjs*
+test/FileSystemUtil/Log/*
